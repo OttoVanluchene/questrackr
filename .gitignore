@@ -5,7 +5,7 @@ target/
 !**/src/test/**/target/
 
 ### Add application properties ###
-!**/src/main/resources/application.properties
+src/main/resources/application.properties
 
 ### STS ###
 .apt_generated
@@ -34,3 +34,4 @@ build/
 
 ### VS Code ###
 .vscode/
+
