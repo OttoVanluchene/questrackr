@@ -10,10 +10,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>be.ottovanluchene.questrackr</groupId>
-	<artifactId>questrackr</artifactId>
+	<groupId>be.ottovanluchene.lifecredits</groupId>
+	<artifactId>lifecredits</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>questrackr</name>
+	<name>lifecredits</name>
 	<description>Demo project for Spring Boot</description>
 	
 	<properties>

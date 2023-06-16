@@ -1,4 +1,4 @@
-package be.ottovanluchene.questrackr.questrackr.Quests;
+package be.ottovanluchene.lifecredits.Quests;
 
 import java.time.LocalDate;
 

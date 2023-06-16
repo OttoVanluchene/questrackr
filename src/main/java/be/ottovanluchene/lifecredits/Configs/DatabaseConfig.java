@@ -1,4 +1,4 @@
-package be.ottovanluchene.questrackr.questrackr.Configs;
+package be.ottovanluchene.lifecredits.Configs;
 
 import javax.sql.DataSource;
 

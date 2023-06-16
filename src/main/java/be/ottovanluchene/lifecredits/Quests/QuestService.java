@@ -1,4 +1,4 @@
-package be.ottovanluchene.questrackr.questrackr.Quests;
+package be.ottovanluchene.lifecredits.Quests;
 
 import java.util.List;
 import java.util.Optional;
